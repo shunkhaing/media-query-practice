@@ -1,4 +1,4 @@
-# media-query-practice
+## media-query-practice
  https://blacksheepshaun.github.io/media-query-practice/
 
 
